@@ -2,7 +2,7 @@
 ##############################################################################
 #
 # Author:
-#     David Lin , ePlus
+#     David Lin 
 #
 # Description:
 #     Create analytics configurations for S3 buckets
